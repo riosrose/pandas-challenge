@@ -1,7 +1,7 @@
 # pandas-challenge
 UCB Data Analytics-Challenge 4 
 
-CHALLENGE PURPOSE : In this challenge, xxxxxxxxxxxxxxxxxxxxx.
+CHALLENGE PURPOSE : In this challenge, xxxxxxxxxxxxxxxxxxxxx
 
 # References
 The dataset used xxxxxx
